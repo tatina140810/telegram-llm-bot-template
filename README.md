@@ -4,6 +4,8 @@ A Telegram bot that answers questions from your own documents using Claude, and 
 Drop Markdown or text files into `knowledge/`, set two tokens, and run one Docker command.
 It is a small, tested starting point for internal help desks, onboarding bots and customer FAQ bots.
 
+<p align="center"><img src="docs/demo.gif" alt="Bot answering questions about a sample handbook in English and Russian, with sources" width="360"></p>
+
 ## How it works
 
 ```mermaid
